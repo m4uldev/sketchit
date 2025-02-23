@@ -48,8 +48,6 @@ python main.py --gambar contoh.jpg
 - Pastikan gambar dalam format yang didukung (misal: `.jpg`, `.png`).
 - Semakin kompleks gambar, semakin lama proses animasinya.
 
-## 📄 Lisensi
-Proyek ini menggunakan lisensi MIT. Silakan lihat file LICENSE untuk detailnya.
 
 💡 **Selamat mencoba dan bersenang-senang dengan sketsa otomatis kamu!**
 
